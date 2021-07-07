@@ -1,7 +1,11 @@
-<center>
-<div><h1>Hi there 👋</h1></div>
-<div><p>Hi guys ! My name is Shahfiq Shah. I will try my best to update this readme soon with some of unprivate project to showcasing my idea and my skill. Honestly , just called it my port folio!</p></div>
-</center>
+
+<div style="text-align:center">
+  <h1>Hi there 👋</h1>
+</div>
+<div style="text-align:center">
+  <p>Hi guys ! My name is Shahfiq Shah. I will try my best to update this readme soon with some of unprivate project to showcasing my idea and my skill. Honestly , just called it my portfolio!</p>
+</div>
+
 
 
 
