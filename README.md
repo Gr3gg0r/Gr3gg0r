@@ -43,10 +43,11 @@ I believe that every line of code is an opportunity to learn something new.
 
 Check out some of my projects on [GitHub](https://github.com/your-github-username).
 
+<!--
 ## 📈 GitHub Stats
 
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=gr3gg0r&show_icons=true&theme=radical)
-
+-->
 ## 🤝 Let's connect
 
 Feel free to connect with me on [LinkedIn](https://linkedin.com/in/shahfiq) or drop me an email at [shahfiqshah21@gmail.com](mailto:shahfiqshah21@example.com).
